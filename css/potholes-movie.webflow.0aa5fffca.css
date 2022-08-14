@@ -1,4 +1,4 @@
-/* Generated on: Sun Aug 14 2022 04:48:21 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Aug 14 2022 04:49:31 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2321,6 +2321,11 @@ figcaption {
 
 .heading-7 {
   font-size: 30px;
+}
+
+.heading-8 {
+  font-size: 30px;
+  line-height: 30px;
 }
 
 html.w-mod-js *[data-ix="fade-in-bottom-page-loads"] {
