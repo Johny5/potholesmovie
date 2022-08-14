@@ -1,4 +1,4 @@
-/* Generated on: Sun Aug 14 2022 04:50:06 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Aug 14 2022 04:50:42 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2326,6 +2326,21 @@ figcaption {
 .heading-8 {
   font-size: 30px;
   line-height: 30px;
+}
+
+.columns-6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 html.w-mod-js *[data-ix="fade-in-bottom-page-loads"] {
